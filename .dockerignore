@@ -1,1 +1,6 @@
 Dockerfile
+config-maps/
+deployments/
+persistent-volumes/
+persistent-volume-claims/
+bash/
